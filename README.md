@@ -2,4 +2,4 @@
 
 
 # Course Catalog Assignment Invitation
-https://classroom.github.com/a/tM9Fy5Bl
+https://classroom.github.com/a/wq7ugRkD
